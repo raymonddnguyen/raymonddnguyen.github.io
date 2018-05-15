@@ -14,3 +14,10 @@ Analyzed and predicted an anonymized/encoded dataset in order to predict poverty
 
 <a href='https://github.com/raymonddnguyen/Notebooks/blob/master/Poverty/Poverty_Classification.ipynb'>Github</a> <br>
 <a href='https://nbviewer.jupyter.org/github/raymonddnguyen/Notebooks/blob/master/Poverty/Poverty_Classification.ipynb'>Nbviewer</a>
+
+## Data Collection
+
+### Macy's Web Scraper
+I collected a list of items and prices from Macy's using BeautifulSoup and Requests.  There were about 50,000 items and I missed about 2 brands.
+
+<a href="https://github.com/raymonddnguyen/Notebooks/blob/master/Webscraping/Macy's/macys_web_scrape.py">Github</a>
